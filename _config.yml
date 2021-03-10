@@ -1,0 +1,36 @@
+# site settings
+title: Harsh Wani
+subtitle: by HTML5 UP
+email: harsh230149@gmail.com
+description: I am a dedicated graduate student, enthusiastic about identifying issues with existing software and building highly scalable & efficient production level software
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 72 Baldwin Ave
+city: Jersey City
+state: NJ
+zip_code: 07306
+country: United States of America
+phone: (201) 830-7807
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://www.linkedin.com/in/harshwani1997/
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
