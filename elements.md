@@ -9,9 +9,9 @@ nav-menu: true
           <div class="container">
                <div class="row">
 
-  <div margin="25px" class="col-md-6 col-sm-12">
+  <div class="col-md-6 col-sm-12">
                          <div class="color-white about-thumb">
-                              <div class="wow fadeInUp section-title" data-wow-delay="0.4s">
+                              <div margin="25px" class="wow fadeInUp section-title" data-wow-delay="0.4s">
                                    <h1>My Education</h1>
                               </div>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
