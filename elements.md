@@ -3,7 +3,9 @@ layout: page
 title: Elements
 nav-menu: true
 ---
-
+div {
+  margin: 35px;
+}
 
  <section id="about" class="parallax-section">
           <div class="container">
