@@ -1,11 +1,18 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Harsh'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hi there!
+I am **Harsh Wani** and this is my personal website.
+In this website, I will describe my experience related to Computer Science.
+
+I am a dedicated graduate student, enthusiastic about identifying issues with existing software and building highly scalable & efficient production level software. I'm passionate about building useful and impactful things as well as open-source software development. I enjoy learning new technologies and creating things that are useful to others whether that be tools, websites, or applications.
+
+I have gained experience in Data Structures & Algorithms, Distributed Systems, Cloud(Azure, AWS, IBM), DevOps & Agile tools (Docker, Vagrant, Git, Kubernetes, Travis-CI, Selenium), Big Data technologies (Spark, Hadoop), Database Management Systems (MySQL, MS-SQL, NoSQL Cloudant), Data Engineering tools(Apache Airflow) and web frameworks such as Angular 9, Flask, Spring MVC during my masters degree and internships while working as a software engineer.
+
