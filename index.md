@@ -8,4 +8,6 @@ author: null
 show_tile: false
 ---
 
-XNHCDSJFHS
+Hi there!
+I am **Soham Tamba** and this is my personal website.
+In this website, I will describe my experience related to Computer Science.
