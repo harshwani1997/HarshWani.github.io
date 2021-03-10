@@ -11,7 +11,7 @@ city: Jersey City
 state: NJ
 zip_code: 07306
 country: United States of America
-phone: (201) 830-7807
+phone: (201)-830-7807
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
