@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Education
 image: assets/images/about-img.jpg
 nav-menu: true
 ---
@@ -9,7 +9,7 @@ nav-menu: true
           <div class="container">
                <div class="row">
 
-  <div class="col-md-6 col-sm-12">
+  <div margin="25px" class="col-md-6 col-sm-12">
                          <div class="color-white about-thumb">
                               <div class="wow fadeInUp section-title" data-wow-delay="0.4s">
                                    <h1>My Education</h1>
