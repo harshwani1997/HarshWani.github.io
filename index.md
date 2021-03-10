@@ -7,15 +7,6 @@ image: null
 author: null
 show_tile: false
 ---
----
-layout: Skills
-title: Skills
-landing-title: 
-description: null
-image: null
-author: null
-show_tile: false
----
 
 Hi there!
 I am **Harsh Wani** and this is my personal website.
@@ -25,10 +16,3 @@ I am a dedicated graduate student, enthusiastic about identifying issues with ex
 
 I have gained experience in Data Structures & Algorithms, Distributed Systems, Cloud(Azure, AWS, IBM), DevOps & Agile tools (Docker, Vagrant, Git, Kubernetes, Travis-CI, Selenium), Big Data technologies (Spark, Hadoop), Database Management Systems (MySQL, MS-SQL, NoSQL Cloudant), Data Engineering tools(Apache Airflow) and web frameworks such as Angular 9, Flask, Spring MVC during my masters degree and internships while working as a software engineer.
 
-
-
-• Languages: Java, Python, Scala, JavaScript, SQL, JSON, TypeScript, HTML5/CSS3
-• Cloud Services & Frameworks: Spring MVC, REST APIs, Angular 9, Bootstrap, Pytorch, Keras/ Tensorflow
-Flask, Apache Spark, Apache Airflow, Azure Data Lake, IBM Cloud, GCP Kubeflow
-• Tools: Docker, Vagrant, Maven, Git, Kubernetes, Travis-CI, Selenium, Linux/ Unix
-• Databases: MySQL, MS-SQL, NoSQL-CouchDB (Cloudant)
