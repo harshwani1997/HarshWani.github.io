@@ -10,12 +10,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Software Engineer Intern - Varian Systems/h2>
+			<h2>Software Engineer Intern - Varian Systems</h2>
 		</header>
 		<p>- Built scalable data-pipelines for continuous integration and deployment (CI/ CD) using Apache Airflow, Microsoft Azure Cloud & MS-SQL server
 - Migrated 200 GBs of historical data from on-prem to Azure Data Lake by writing python DAG scripts to fix core problems in system scalability & storage
 - Optimized the read/write operations of SQL databases to enhance performance, reducing latency by 80%
-- Developed a system to predict usage and wear-tear of 3000 workstations using ML techniques on log sensor data to reduce costs, increase operational efficiency by 40% and avoid unnecessary replacement of parts</p>
+- Developed a system to predict usage and wear-tear of 3000 workstations using ML techniques on log sensor data to reduce costs, increase operational efficiency by 40% and avoid unnecessary replacement of parts </p>
 	</div>
 </section>
 
