@@ -3,10 +3,12 @@ layout: page
 title: Elements
 nav-menu: true
 ---
-div {
-  margin: 35px;
-}
 
+<style>
+  div {margin: 35px;}
+</style>
+
+<html>
  <section id="about" class="parallax-section">
           <div class="container">
                <div class="row">
@@ -84,3 +86,4 @@ div {
   </div>
           </div>
      </section>
+</html>
