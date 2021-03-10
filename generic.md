@@ -10,24 +10,28 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Software Engineer Intern - Varian Systems</h2>
+			<a>Software Engineer Intern - Varian Systems</a>
 		</header>
-		<p>- Built scalable data-pipelines for continuous integration and deployment (CI/ CD) using Apache Airflow, Microsoft Azure Cloud & MS-SQL server
-- Migrated 200 GBs of historical data from on-prem to Azure Data Lake by writing python DAG scripts to fix core problems in system scalability & storage
-- Optimized the read/write operations of SQL databases to enhance performance, reducing latency by 80%
-- Developed a system to predict usage and wear-tear of 3000 workstations using ML techniques on log sensor data to reduce costs, increase operational efficiency by 40% and avoid unnecessary replacement of parts </p>
+		 <ul>
+                   <li>Built scalable data-pipelines for continuous integration and deployment (CI/ CD) using Apache Airflow, Microsoft Azure Cloud & MS-SQL server</li>
+                   <li>Migrated 200 GBs of historical data from on-prem to Azure Data Lake by writing python DAG scripts to fix core problems in system scalability & storage</li>
+                   <li>Optimized the read/write operations of SQL databases to enhance performance, reducing latency by 80%</li>
+	           <li> Developed a system to predict usage and wear-tear of 3000 workstations using ML techniques on log sensor data to reduce costs, increase operational efficiency by 40% and avoid unnecessary replacement of parts</li>
+                 </ul>
 	</div>
 </section>
 
 <!-- One -->
-<section id="two">
+<section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Software Developer Intern - Synoptek Private Limited</h2>
+			<a>Software Developer Intern - Synoptek Private Limited</a>
 		</header>
-		<p>- Developed a portal web application to facilitate HR e-assistance for employees using Spring Java MVC framework
-- Developed highly interactive scalable web application utilizing Java, Typescript, Angular 9 and Bootstrap and integrated RestfulAPIs enhancing productivity by 25%
-- Built MVC styled architecture using Spring Boot, Spring Security, IOC and Dependency Injection handling more than 1000 concurrent requests from employees
-- Used Spring Data JPA and hibernate framework to achieve data persistence </p>
+		 <ul>
+                   <li>Developed a portal web application to facilitate HR e-assistance for employees using Spring Java MVC framework</li>
+                   <li>Developed highly interactive scalable web application utilizing Java, Typescript, Angular 9 and Bootstrap and integrated RestfulAPIs enhancing productivity by 25%</li>
+                   <li>Built MVC styled architecture using Spring Boot, Spring Security, IOC and Dependency Injection handling more than 1000 concurrent requests from employees</li>
+	           <li>Built MVC styled architecture using Spring Boot, Spring Security, IOC and Dependency Injection handling more than 1000 concurrent requests from employees</li>
+                 </ul>
 	</div>
 </section>
