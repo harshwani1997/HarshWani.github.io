@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Selected Projects
 layout: landing
-description: 'Selected Projects'
+description: 
 image: assets/images/education-img.jpg
 nav-menu: true
 ---
