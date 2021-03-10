@@ -10,7 +10,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<a>Software Engineer Intern - Varian Systems</a>
+			<a href="https://www.varian.com/">Software Engineer Intern - Varian Systems</a>
 		</header>
 		 <ul>
                    <li>Built scalable data-pipelines for continuous integration and deployment (CI/ CD) using Apache Airflow, Microsoft Azure Cloud & MS-SQL server</li>
@@ -25,7 +25,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<a>Software Developer Intern - Synoptek Private Limited</a>
+			<a href="https://synoptek.com/">Software Developer Intern - Synoptek Private Limited</a>
 		</header>
 		 <ul>
                    <li>Developed a portal web application to facilitate HR e-assistance for employees using Spring Java MVC framework</li>
