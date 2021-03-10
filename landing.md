@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>E-Commerce vendor microservice - [Python, Docker, Flask, Kubernetes, NoSQL, Git] - GitHub</h2>
+			<h2>E-Commerce vendor microservice - [Python, Docker, Flask, Kubernetes, NoSQL, Git]</h2>
 		</header>
 		<ul>
                    <li>Built and deployed an infrastructure-as-code cloud-native RESTful vendor microservice as a Flask service</li>
@@ -28,7 +28,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Spark Application Twitter-Hate Crime analysis - [Scala, Spark-SQL, Apache Spark] - GitHub</h2>
+			<h2>Spark Application Twitter-Hate Crime analysis - [Scala, Spark-SQL, Apache Spark]</h2>
 		</header>
 		<ul>
                    <li>Collected and stored (150 GBs) of data by manipulating RDDs & Dataframes using HPC’s HDFS</li>
@@ -56,7 +56,7 @@ nav-menu: true
 <section id="four">
 	<div class="inner">
 		<header class="major">
-			<h2>Image Captioning Inference Service-[Python, Flask, Docker, Kubernetes, IBM Cloud] - GitHub</h2>
+			<h2>Image Captioning Inference Service-[Python, Flask, Docker, Kubernetes, IBM Cloud]</h2>
 		</header>
 		<ul>
                    <li>Built a deep learning model to generate captions of photos given by the user using Xception & LSTM models</li>
