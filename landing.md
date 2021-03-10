@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2 href="https://github.com/20Fall-NYU-DevOps-Suppliers/suppliers">E-Commerce vendor microservice - [Python, Docker, Flask, Kubernetes, NoSQL, Git]</h2>
+			<h2 href='https://github.com/20Fall-NYU-DevOps-Suppliers/suppliers'>E-Commerce vendor microservice - [Python, Docker, Flask, Kubernetes, NoSQL, Git]</h2>
 		</header>
 		<ul>
                    <li>Built and deployed an infrastructure-as-code cloud-native RESTful vendor microservice as a Flask service</li>
