@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2 href='https://github.com/20Fall-NYU-DevOps-Suppliers/suppliers'>E-Commerce vendor microservice - [Python, Docker, Flask, Kubernetes, NoSQL, Git]</h2>
+			<a href="https://github.com/20Fall-NYU-DevOps-Suppliers/suppliers">E-Commerce vendor microservice - [Python, Docker, Flask, Kubernetes, NoSQL, Git]</a>
 		</header>
 		<ul>
                    <li>Built and deployed an infrastructure-as-code cloud-native RESTful vendor microservice as a Flask service</li>
@@ -28,7 +28,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2 href="https://github.com/harshwani1997/Twitter-HateCrime-CorrelationAnalysis-BigDataProject">Spark Application Twitter-Hate Crime analysis - [Scala, Spark-SQL, Apache Spark]</h2>
+			<a href="https://github.com/harshwani1997/Twitter-HateCrime-CorrelationAnalysis-BigDataProject">Spark Application Twitter-Hate Crime analysis - [Scala, Spark-SQL, Apache Spark]</a>
 		</header>
 		<ul>
                    <li>Collected and stored (150 GBs) of data by manipulating RDDs & Dataframes using HPC’s HDFS</li>
@@ -42,7 +42,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2 href="https://github.com/harshwani1997/Smart-Text-Editor">Smart Text Editor - [Java, Data Structures & Algorithms, Object-Oriented paradigms, Git] -</h2>
+			<a href="https://github.com/harshwani1997/Smart-Text-Editor">Smart Text Editor - [Java, Data Structures Algorithms, Object-Oriented paradigms, Git]</a>
 		</header>
 		<ul>
                    <li>Built a smart Text editor with various features such as auto-completion, spell-check, and spelling suggestions</li>
@@ -56,7 +56,7 @@ nav-menu: true
 <section id="four">
 	<div class="inner">
 		<header class="major">
-			<h2 href="https://github.com/harshwani1997/CloudML-ImageCaptioning-InferenceService-Application">Image Captioning Inference Service-[Python, Flask, Docker, Kubernetes, IBM Cloud]</h2>
+			<a href="https://github.com/harshwani1997/CloudML-ImageCaptioning-InferenceService-Application">Image Captioning Inference Service-[Python, Flask, Docker, Kubernetes, IBM Cloud]</a>
 		</header>
 		<ul>
                    <li>Built a deep learning model to generate captions of photos given by the user using Xception & LSTM models</li>
