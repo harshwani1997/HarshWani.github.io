@@ -4,29 +4,84 @@ title: Elements
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Elements</h1>
-		</header>
+ <section id="about" class="parallax-section">
+          <div class="container">
+               <div class="row">
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-</div>
-        </div>
-</section>
-</div>
+  <div class="col-md-6 col-sm-12">
+                         <div class="color-white about-thumb">
+                              <div class="wow fadeInUp section-title" data-wow-delay="0.4s">
+                                   <h1>My Education</h1>
+                              </div>
+                              <div class="wow fadeInUp" data-wow-delay="0.8s">
+                                   <div class="wow fadeInUp color-white media" data-wow-delay="0.6s">
+                                        <div class="media-object media-left">
+                                             <i class="fa fa-graduation-cap"></i>
+                                        </div>
+                                        <div class="media-body">
+                                             <h3 class="media-heading"><big><strong>New York University</strong></big> <br/> Masters in Computer Science <br/>
+                                                  <small>2019 Sept - 2021 May</small></h3>
+                                        </div>
+                                   </div>
+
+  <div class="wow fadeInUp color-white media" data-wow-delay="0.8s">
+                                        <div class="media-object media-left">
+                                             <i class="fa fa-graduation-cap"></i>
+                                        </div>
+                                        <div class="media-body">
+                                             <h3 class="media-heading"><big><strong>Delhi Technological University</strong></big> <br/> Bachelor of Technology in Information Technology <br/>
+                                                  <small>2012 Aug - 2016 May</small>
+                                             </h3>
+                                             <h4 class="h4-custom"><ul data-wow-delay="1s">
+                                                  <li>Graduated First Class with Distinction (was amongst the top 10% of the class)</li>
+                                             </ul></h4>
+                                        </div>
+                                   </div>
+                              </div>
+                         </div>
+                    </div>
+
+  <div class="col-md-3 col-sm-6">
+                         <div class="background-image about-img"></div>
+                    </div>
+
+  <div class="bg-yellow col-md-3 col-sm-6">
+                         <div class="skill-thumb">
+                              <div class="wow fadeInUp section-title color-white" data-wow-delay="0.4s">
+                                   <h1>My Skills</h1>
+                                   <p class="color-white">Java, Python, C, C++, HTML CSS JS, Backend Systems, Maven, Spring, Hibernate</p>
+                              </div>
+
+  <div class=" wow fadeInUp skills-thumb" data-wow-delay="0.6s">
+                                   <strong>Java</strong>
+                                   <span class="color-white pull-right">99%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100" style="width: 99%;"></div>
+                                   </div>
+
+  <strong>Backend processing</strong>
+                                   <span class="color-white pull-right">90%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
+                                   </div>
+
+  <strong>C/C++</strong>
+                                   <span class="color-white pull-right">80%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                   </div>
+
+  <strong>Python</strong>
+                                   <span class="color-white pull-right">70%</span>
+                                   <div class="progress">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                   </div>
+                              </div>
+
+  </div>
+                    </div>
+
+  </div>
+          </div>
+     </section>
