@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'Selected Projects'
-image: education-img.jpg
+image: assets/images/education-img.jpg
 nav-menu: true
 ---
 
