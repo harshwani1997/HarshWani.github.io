@@ -1,6 +1,6 @@
 # site settings
 title: Harsh Wani
-subtitle: 
+subtitle: Computer Science at NYU Courant
 email: harsh230149@gmail.com
 description: I am a dedicated graduate student, enthusiastic about identifying issues with existing software and building highly scalable & efficient production level software
 baseurl: "/" # the subpath of your site, e.g. /blog
