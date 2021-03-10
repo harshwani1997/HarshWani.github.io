@@ -4,11 +4,6 @@ title: Elements
 nav-menu: true
 ---
 
-<style>
-  div {margin: 35px;}
-</style>
-
-<html>
  <section id="about" class="parallax-section">
           <div class="container">
                <div class="row">
@@ -86,4 +81,3 @@ nav-menu: true
   </div>
           </div>
      </section>
-</html>
