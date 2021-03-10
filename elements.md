@@ -33,10 +33,7 @@ nav-menu: true
                                              <h3 class="media-heading"><big><strong>Delhi Technological University</strong></big> <br/> Bachelor of Technology in Information Technology <br/>
                                                   <small>2012 Aug - 2016 May</small>
                                              </h3>
-                                             <h4 class="h4-custom"><ul data-wow-delay="1s">
-                                                  <li>Graduated First Class with Distinction (was amongst the top 10% of the class)</li>
-                                             </ul></h4>
-                                        </div>
+                                           </div>
                                    </div>
                               </div>
                          </div>
