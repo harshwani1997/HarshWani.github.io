@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Harsh Wani'
 description: null
-image: null
+image: assets/images/about_img.jpg
 author: null
 show_tile: false
 ---
