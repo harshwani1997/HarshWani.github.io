@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work Experience
-description: Lorem ipsum dolor est
+description:
 image: assets/images/pic09.jpg
 nav-menu: true
 ---
