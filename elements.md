@@ -24,8 +24,9 @@ nav-menu: true
 		<p>Sep 2019 - May 2021</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Vellore Institute of technology</h3>
+		<p>Bachelors In Technology in Computer Science</p>
+		<p>July 2015 - June 2019</p>
 	</div>
 </div>
 </div>
