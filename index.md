@@ -10,6 +10,7 @@ show_tile: false
 
 Hi there!
 I am **Harsh Wani** and this is my personal website.
+
 CURRENTLY LOOKING FOR FULL-TIME OPPORTUNITIES IN US
 
 In this website, I will describe my experience related to Computer Science.
