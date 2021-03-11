@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Education & Skills
 nav-menu: true
 ---
 
@@ -34,7 +34,7 @@ nav-menu: true
 		</header>
 <ui>
 	<li>Languages: Java, Python, Scala, JavaScript, SQL, JSON, TypeScript, HTML5/CSS3</li>
-	<li> Cloud Services & Frameworks: Spring MVC, REST APIs, Angular 9, Bootstrap, Keras, Flask, Apache Spark, Apache Airflow, Azure Data Lake, IBM Cloud, GCP Kubeflow</li>
+	<li> Cloud Services & Frameworks: Spring MVC, REST APIs, Angular 9, Bootstrap, Keras, Flask, Apache Spark, Apache Airflow, Azure Data Lake, GCP Kubeflow</li>
 	<li>Tools: Docker, Vagrant, Maven, Git, Kubernetes, Travis-CI, Selenium, Linux/ Unix</li>
 	<li> Databases: MySQL, MS-SQL, NoSQL-CouchDB (Cloudant)</li>
 </ui>
