@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education & Skills
-image: assests/images/about-img.jpg
+image: assets/images/about-img.jpg
 nav-menu: true
 ---
 
