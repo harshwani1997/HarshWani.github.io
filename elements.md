@@ -16,13 +16,11 @@ nav-menu: true
 	
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3></h3>
 		<h3 style="font-size:150%;">New York University</h3>
 		<p style="font-size:120;">Masters in Science in Computer Science</p>
 		<p style="font-size:100%;">Sep 2019 - May 2021</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3></h3>
 		<h3  style="font-size:150%;">Vellore Institute of technology</h3>
 		<p  style="font-size:120%;">Bachelors In Technology in Computer Science</p>
 		<p  style="font-size:100%;">July 2015 - June 2019</p>
